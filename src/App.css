@@ -46,3 +46,7 @@ h1 {
   margin: 1rem 0;
   color: red;
 }
+button{
+  color: rgb(255, 0, 0);
+  background-color: rgb(5, 255, 151);
+}
